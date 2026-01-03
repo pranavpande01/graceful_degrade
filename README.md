@@ -37,7 +37,7 @@ Memory is bounded by a global budget. When exceeded:
 ## Installation
 
 ```bash
-git clone https://github.com/youruser/amdf.git
+git clone https://github.com/pranavpande01/graceful_degrade
 cd amdf
 python3 demo.py
 ```
@@ -126,7 +126,3 @@ Output includes:
 - [ ] LLM-based reconstruction for retired layers
 - [ ] Persistent storage backend (SQLite + vector DB)
 - [ ] Evaluation metrics for graceful degradation
-
-## License
-
-MIT
